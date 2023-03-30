@@ -2,7 +2,7 @@
 title: 关于砚知和他的自我介绍
 ---
 
-这里以前是一个示例页面，网站建议我把这里做成自己的关于页面，在这里向各位介绍一下我自己。就像这样：   
+这里以前是一个示例页面，网站建议我把这里做成自己的关于页面，在这里向各位介绍一下我自己。就像这样123：   
    
 
 `
@@ -17,5 +17,5 @@ title: 关于砚知和他的自我介绍
 
 最后的最后，欢迎各位来到属于我砚知的个人博客。
 
-![有手有脚会做汉堡的黄色大方块的微信](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6c6d9f580b974d74a6d5ac53c367e55c~tplv-k3u1fbpfcp-watermark.image?)
+![vx.jpg](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/91c01e82f9bf421ab1b46ba5e30d4987~tplv-k3u1fbpfcp-zoom-1.image)
 

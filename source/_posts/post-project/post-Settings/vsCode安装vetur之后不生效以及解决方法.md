@@ -1,7 +1,7 @@
 ---
 title: vsCoe安装vetur之后不生效以及解决方法 
 date:  2019-08-20 20:17:06
-tags:  工具配置 vscode
+tags:  工具配置
 ---
 
 
